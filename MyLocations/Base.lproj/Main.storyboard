@@ -72,6 +72,7 @@
                             <constraint firstItem="SaY-RK-pa1" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="DQc-yv-YiD"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="jpV-Fg-4RB" secondAttribute="bottom" constant="50" id="IMr-am-lXZ"/>
                             <constraint firstItem="jpV-Fg-4RB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="JlQ-Sq-mWt"/>
+                            <constraint firstItem="XZP-60-mmL" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="621-B6-Mef" secondAttribute="trailing" constant="8" symbolic="YES" id="LvL-rT-7RM"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="jpV-Fg-4RB" secondAttribute="trailing" constant="16" id="Nim-uP-cy9"/>
                             <constraint firstItem="XZP-60-mmL" firstAttribute="top" secondItem="voD-xa-9eW" secondAttribute="bottom" constant="24" id="OP3-wT-I1W"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="XZP-60-mmL" secondAttribute="trailing" constant="16" id="PvM-a5-7E6"/>
@@ -79,6 +80,8 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="voD-xa-9eW" secondAttribute="trailing" constant="16" id="SgE-Qk-CBN"/>
                             <constraint firstItem="HYS-2A-dGP" firstAttribute="top" secondItem="621-B6-Mef" secondAttribute="bottom" constant="24" id="Sra-CY-Mq1"/>
                             <constraint firstItem="HYS-2A-dGP" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="UH1-Pe-MDh"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="SaY-RK-pa1" secondAttribute="trailing" symbolic="YES" id="VGH-GJ-KoH"/>
+                            <constraint firstItem="NGT-dH-sUs" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="HYS-2A-dGP" secondAttribute="trailing" constant="8" symbolic="YES" id="XXT-li-DHA"/>
                             <constraint firstItem="63j-va-JRy" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="d8w-vQ-9ko"/>
                             <constraint firstItem="HYS-2A-dGP" firstAttribute="width" secondItem="621-B6-Mef" secondAttribute="width" multiplier="1.29851" id="eLU-nf-Ms6"/>
                             <constraint firstItem="voD-xa-9eW" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="eYW-na-Oav"/>
